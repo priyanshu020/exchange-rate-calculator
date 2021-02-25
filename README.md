@@ -8,3 +8,4 @@ You can also swap the currencies to get the exchange rates. Also, it shows the c
   
 ## Deployment
 
+https://your-exchange-rate-calculator.netlify.app/
